@@ -1,16 +1,14 @@
-## Hi there 👋
+# Attendance Calculator
 
-<!--
-**myattendancecalculator-hash/myattendancecalculator-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Attendance Calculator is a free online tool designed to help
+students calculate attendance percentage and plan classes effectively.
 
-Here are some ideas to get you started:
+🔗 Official Website: https://myattendancecalculator.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What This Project Solves
+- Attendance percentage calculation
+- 75% attendance planning
+- Student attendance clarity
+
+This profile hosts educational repositories related to
+attendance calculation and student academic tools.
